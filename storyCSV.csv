@@ -1,0 +1,22 @@
+NodeID|parentNodeID|text|type
+1|0|The legend of One Piece intro.|narrative
+2|1|Luffy stabs his face to prove he can join, but shanks refuses.|narrative
+3|2|keep trying.|choice
+4|2|Stop trying to impress Shanks. Find a boat and sail away.|choice
+5|3|Shanks still refuses and when they are in a bar, the bandits headed by Higuma appear. Higuma demands for more drinks and humiliates Shanks.|narrative
+6|4|Sea King attacks and Luffy falls off a boat and drowns immediately due to a devil fruit he ate.|narrative
+7|5|Get angry at Shanks and leave.|choice
+8|5|Laugh it off just like other Red haired pirates.|choice
+9|7|Luffy's arm stretches unexpectedly, revealing he ate the Devil Fruit.The Red Hair Pirates had gone off on another voyage. Later, Higuma bandits came back.|narrative
+12|8|The Red-Haired Pirates later find out the Gomu Gomu No Mi was stolen from their chest.Shanks suspects the bandits.|narrative
+10|9|pick a fight with them.|choice
+11|9|leave to stay out of trouble.|choice
+16|12|come out and tell that you ate the fruit in the chest.|choice
+17|12|dont say anything because the bandits deserved punishment from Shanks.|choice
+18|16|Shanks laughs it off and explains that Luffy now has a rubber body.|narrative
+19|17|Shanks intimidates the bandits but finds out they weren't the culprits. Later, Luffy's rubber body is revealed and Shanks gets disappointed at Luffy's failure to be honest.|narrative
+13|10|Higuma kidnaps Luffy for fighting him and decides to sell him to circus because of his rubber body.|narrative
+14|13|get angry and keep insulting him.|choice
+15|13|beg him to let go.|choice
+20|14|Higuma gets mad and decides to kill him. But Shanks and his crew come back and Shanks loses his arm in the process.|narrative
+21|15|Higuma ties him down in his cabin. Shanks comes back to rescue Luffy and succeeds while Higuma and his crew flee.|narrative

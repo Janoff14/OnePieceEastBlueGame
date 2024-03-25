@@ -1,0 +1,116 @@
+{
+    "1": {
+        "text": "The legend of One Piece intro.",
+        "type": "narrative",
+        "children": {
+            "2": {
+                "text": "Luffy's Encounter with Shanks: luffy stabs his face to prove he can join, but shanks refuses.",
+                "type": "narrative",
+                "children": {
+                    "3": {
+                        "text": "keep trying",
+                        "type": "choice",
+                        "children": {
+                            "5": {
+                                "text": "Shanks still refuses and when they are in a bar, the bandits headed by Higuma appear. Higuma demands for more drinks and humiliates Shanks.",
+                                "type": "narrative",
+                                "children": {
+                                    "7": {
+                                        "text": "Get angry at Shanks and leave.",
+                                        "type": "choice",
+                                        "children": {
+                                            "9": {
+                                                "text": "Luffy's arm stretches unexpectedly, revealing he ate the Devil Fruit. the Red Hair Pirates had gone off on another voyage. Later, Higuma bandits came back.",
+                                                "type": "narrative",
+                                                "children": {
+                                                    "10": {
+                                                        "text": "pick a fight with them.",
+                                                        "type": "choice",
+                                                        "children": {
+                                                            "13": {
+                                                                "text": "Higuma kidnaps Luffy for fighting him and decides to sell him to circus because of his rubber body.",
+                                                                "type": "narrative",
+                                                                "children": {
+                                                                    "14": {
+                                                                        "text": "get angry and keep insulting him.",
+                                                                        "type": "choice",
+                                                                        "children": {
+                                                                            "20": {
+                                                                                "text": "Higuma gets mad and decides to kill him. But Shanks and his crew come back and blablabla. Shanks loses his arm in the process.",
+                                                                                "type": "narrative"
+                                                                            }
+                                                                        }
+                                                                    },
+                                                                    "15": {
+                                                                        "text": "beg him to let go.",
+                                                                        "type": "choice",
+                                                                        "children": {
+                                                                            "21": {
+                                                                                "text": "Higuma ties him down in his cabin. Shanks comes back to rescue Luffy and succeeds while",
+                                                                                "type": "narrative"
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "11": {
+                                                        "text": "leave to stay out of trouble",
+                                                        "type": "choice"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "8": {
+                                        "text": "Laugh it off just like other Red haired pirates.",
+                                        "type": "choice",
+                                        "children": {
+                                            "12": {
+                                                "text": "The RedHaired Pirates later find out the Gomu Gomu No Mi was stolen from their chest. Shanks suspects the bandits.",
+                                                "type": "narrative",
+                                                "children": {
+                                                    "16": {
+                                                        "text": "come out and tell that you ate the fruit in the chest.",
+                                                        "type": "choice",
+                                                        "children": {
+                                                            "18": {
+                                                                "text": "Shanks laughs it off and explains that Luffy now has a rubber body.",
+                                                                "type": "narrative"
+                                                            }
+                                                        }
+                                                    },
+                                                    "17": {
+                                                        "text": "dont say anything because the bandits deserved punishment from Shanks.",
+                                                        "type": "choice",
+                                                        "children": {
+                                                            "19": {
+                                                                "text": "Shanks intimidates the bandits but finds out they weren't the culprits. Later, Luffy's rubber body is revealed and Shanks gets disappointed at Luffy's failure to be honest.",
+                                                                "type": "narrative"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "4": {
+                        "text": "Stop trying to impress Shanks. Find a boat and sail away.",
+                        "type": "choice",
+                        "children": {
+                            "6": {
+                                "text": "Sea King attacks and luffy falls off a boat and drowns immediately due to a devil fruit he ate.",
+                                "type": "narrative"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

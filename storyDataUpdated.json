@@ -1,0 +1,116 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "text": "The legend of One Piece intro",
+      "choices": [
+        {
+          "choiceText": "Luffy's Encounter with Shanks: Luffy stabs his face to prove he can join, but Shanks refuses",
+          "nextNodeId": {
+            "value": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Shanks still refuses and when in a bar, are they are then interrupted by the bandits headed by Higuma. Higuma demands for more drinks and insults Shanks.",
+      "choices": [
+        {
+          "choiceText": "Keep trying to join Shanks",
+          "nextNodeId": 3
+        },
+        {
+          "choiceText": "Stop trying to impress Shanks. Find a boat and sail away.",
+          "nextNodeId": 10
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Shanks laughs off the incident and cleans up, while Luffy gets angry and leaves.",
+      "choices": [
+        {
+          "choiceText": "Get angry at Shanks and leave",
+          "nextNodeId": 4
+        },
+        {
+          "choiceText": "Laugh it off just like other Red-haired pirates.",
+          "nextNodeId": 5
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Luffy's arm stretches unexpectedly, revealing he ate the Devil Fruit. The Red Hair Pirates had gone off on another voyage. Later, Higuma bandits came back.",
+      "choices": [
+        {
+          "choiceText": "Pick a fight with them.",
+          "nextNodeId": 7
+        },
+        {
+          "choiceText": "Leave to stay out of trouble.",
+          "nextNodeId": 6
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "The Red-Haired Pirates later find out the Gomu Gomu No Mi was stolen from their chest. Shanks suspects the bandits.",
+      "choices": [
+        {
+          "choiceText": "Come out and tell that you ate the fruit in the chest.",
+          "nextNodeId": 8
+        },
+        {
+          "choiceText": "Don't say anything because the bandits deserved punishment from Shanks.",
+          "nextNodeId": 9
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Higuma kidnaps Luffy for fighting him and decides to sell him to circus because of his rubber body.",
+      "choices": [
+        {
+          "choiceText": "Get angry and keep insulting him.",
+          "nextNodeId": 11
+        },
+        {
+          "choiceText": "Beg him to let go.",
+          "nextNodeId": 12
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Higuma gets mad and decides to kill Luffy. But Shanks and his crew come back and Higuma loses his arm in the process.",
+      "choices": []
+    },
+    {
+      "id": 8,
+      "text": "Shanks laughs it off and explains that Luffy now has a rubber body.",
+      "choices": []
+    },
+    {
+      "id": 9,
+      "text": "Shanks intimidates the bandits but finds out they weren't the culprits. Later, Luffy's rubber body is revealed and Shanks gets disappointed at Luffy's failure to be honest.",
+      "choices": []
+    },
+    {
+      "id": 10,
+      "text": "Sea King attacks and Luffy falls off a boat and drowns immediately due to a devil fruit he ate.",
+      "choices": []
+    },
+    {
+      "id": 11,
+      "text": "Higuma ties him down in his cabin. Shanks comes back to rescue Luffy and succeeds while Higuma and his crew flee.",
+      "choices": []
+    },
+    {
+      "id": 12,
+      "text": "Higuma ties him down in his cabin. Shanks comes back to rescue Luffy and succeeds while Higuma and his crew flee.",
+      "choices": []
+    }
+  ]
+}
